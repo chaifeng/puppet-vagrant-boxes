@@ -5,3 +5,5 @@
 .bundle
 vendor
 Gemfile.lock
+.ruby-gemset*
+.ruby-version.*
